@@ -1,0 +1,40 @@
+# Alpaion Analytics
+
+> Alpaion is a consultancy for data analytics, artificial intelligence, process optimisation and automation, research, strategy development and go-to-market. Vendor-neutral, hands-on, serving the DACH region in German and English.
+
+## Services
+- Data Analytics & Business Intelligence: We build a consistent, reliable data foundation and make the relevant performance drivers transparent, so that management and business units decide on the basis of the same numbers.
+- Artificial Intelligence: We identify the AI use cases with the highest value, assess them for benefit, feasibility and risk, and take them from prototype into production.
+- Operational Excellence: We make processes transparent end to end, quantify inefficiencies and design target processes that sustainably reduce lead times, costs and error rates.
+- Process Automation: We automate repetitive tasks and integrate systems seamlessly. This frees capacity for value-adding work and increases speed, quality and scalability.
+- Research & Analysis: We deliver fact-based decision support: researched systematically, backed by sources and structured to accelerate decisions.
+- Strategy Development: We develop strategies that prioritise, quantify and can be executed: for data and AI, for digital transformation and for the core business.
+- Go-to-Market Advisory: We sharpen positioning, offering and pricing, and align marketing and sales with the customer segments that hold the greatest potential.
+- AI Governance & EU AI Act: We establish the framework for responsible and compliant use of AI: with clear policies, robust risk assessment and targeted capability building.
+
+## Engagement formats
+- Strategic sparring (by the hour or day): Second opinion on investment and technology decisions, preparation of board and investor meetings
+- Diagnostics & workshops (1 to 10 days): AI potential analysis, data maturity assessment, process diagnostics, strategy retreat
+- Projects (4 to 16 weeks, fixed price available): Reporting and analytics solutions, AI applications, automation, market studies, go-to-market planning
+- Interim & fractional (from one day per week): Interim head of data & AI, chief data officer, go-to-market lead or programme lead
+- Managed services (ongoing): Further development, operation and monitoring of live solutions
+- Enablement & training (half-day to multi-day): AI literacy under Art. 4 AI Act, analytics, automation, executive formats
+
+## Approach
+1. Diagnostic (1–2 weeks): We analyse objectives, data, processes and market context and conduct interviews with the relevant stakeholders. Result: baseline and target picture
+2. Prioritisation (1–2 weeks): We assess levers by value, effort, risk and feasibility and quantify the business case. Result: prioritised roadmap
+3. Implementation (4–12 weeks): We deliver the prioritised initiatives iteratively, validate them in live operations and optimise against defined KPIs. Result: live solution with measurable impact
+4. Embedding (ongoing): We ensure a structured handover, enable your teams and support operations and scaling. Result: sustained value
+
+## Clients
+- DB Digital Ventures (https://www.deutschebahn.com/), Berlin Partner (https://www.berlin-partner.de/), Theodor-Wenzel-Werk e.V. (https://www.tww-berlin.de/), TYRAS Family Office (https://tyrascapital.com/), Momentum Trust reg. (https://momentum.li/), Vadutium (https://vadutium.li/), artyom.app (https://artyom.app/), fixportrait.com (https://fixportrait.com/)
+
+## Pages
+- [Homepage (German)](https://alpaion.com/)
+- [Homepage (English)](https://alpaion.com/en/)
+- [Imprint](https://alpaion.com/en/imprint.html)
+- [Privacy policy](https://alpaion.com/en/privacy.html)
+- [Terms](https://alpaion.com/en/terms.html)
+
+## Contact
+- Email: info@alpaion.com

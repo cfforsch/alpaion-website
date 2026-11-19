@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alpaion.com/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/"/>
+  </url>
+  <url>
+    <loc>https://alpaion.com/en/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/"/>
+  </url>
+  <url>
+    <loc>https://alpaion.com/impressum.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/imprint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/impressum.html"/>
+  </url>
+  <url>
+    <loc>https://alpaion.com/en/imprint.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/imprint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/impressum.html"/>
+  </url>
+  <url>
+    <loc>https://alpaion.com/datenschutz.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/datenschutz.html"/>
+  </url>
+  <url>
+    <loc>https://alpaion.com/en/privacy.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/datenschutz.html"/>
+  </url>
+  <url>
+    <loc>https://alpaion.com/agb.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/agb.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/agb.html"/>
+  </url>
+  <url>
+    <loc>https://alpaion.com/en/terms.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alpaion.com/agb.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alpaion.com/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alpaion.com/agb.html"/>
+  </url>
+</urlset>

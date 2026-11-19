@@ -1,0 +1,11 @@
+# Netlify / Cloudflare Pages security headers
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://www.googletagmanager.com https://cdn.matomo.cloud https://snap.licdn.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://api.web3forms.com https://formspree.io https://*.matomo.cloud https://px.ads.linkedin.com; img-src 'self' data: https://*.google-analytics.com https://*.googletagmanager.com https://px.ads.linkedin.com; style-src 'self' 'unsafe-inline'; font-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self' https://api.web3forms.com https://formspree.io; object-src 'none'; upgrade-insecure-requests
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
